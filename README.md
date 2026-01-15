@@ -1,19 +1,18 @@
 # Image Transformation Examples
 
 This repository demonstrates basic image processing operations using a single source image and a few derived outputs.
-<img width="384" height="282" alt="Screenshot 2026-01-15 at 17 12 03" src="https://github.com/user-attachments/assets/c412a8b2-798c-48ff-bc94-1f45dc80dc9f" />
 
 **Original Image**
 
 The starting point is a color photograph of a mountain lake with reflections.
 
-<img width="384" height="282" alt="Screenshot 2026-01-15 at 17 11 48" src="https://github.com/user-attachments/assets/a4d24614-ce65-4b34-96ec-1c26a9a1a9b9" />
+<img width="284" height="182" alt="Screenshot 2026-01-15 at 17 11 48" src="https://github.com/user-attachments/assets/a4d24614-ce65-4b34-96ec-1c26a9a1a9b9" />
 
 **Resized Image**
 
 The original image scaled to a different resolution while preserving its content.
 
-<img width="384" height="282" alt="Screenshot 2026-01-15 at 17 12 03" src="https://github.com/user-attachments/assets/b3e23b22-a16e-47bd-80ab-ba901a2444ec" />
+<img width="284" height="182" alt="Screenshot 2026-01-15 at 17 12 03" src="https://github.com/user-attachments/assets/b3e23b22-a16e-47bd-80ab-ba901a2444ec" />
 
 
 **Grayscale Conversion**
